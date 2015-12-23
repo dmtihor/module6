@@ -7,5 +7,5 @@ import java.util.Set;
  * Created by Adm on 12/22/2015.
  */
 public class Directory {
-    Set<File> arrayList = new HashSet();
+    Set<File> files = new HashSet();
     }
